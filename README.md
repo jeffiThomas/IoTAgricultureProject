@@ -1,6 +1,6 @@
 # IoTAgricultureProject
 
-##Project Overview
+## Project Overview
 
 This project implements an IoT-based smart agriculture system for environmental monitoring and predictive analytics. Sensor data was collected, processed, and analyzed to support two primary machine learning tasks:
 
@@ -10,7 +10,7 @@ Environmental Temperature Forecasting (LSTM Time Series Model)
 
 The system demonstrates how IoT sensor data can be used to support data-driven agricultural decision-making under limited data constraints.
 
-##Notebooks
+## Notebooks
 1. Data Loading and Merging
 
 This notebook:
