@@ -44,3 +44,15 @@ Time Series Forecasting:
 - Long Short-Term Memory (LSTM) neural network
 - Predicts short-term environmental temperature
 - Evaluated using MAE and RMSE
+
+## Dashboard
+
+Here is a link: https://public.tableau.com/views/IoTAgricultureDBFinal/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link 
+
+A Tableau Public dashboard was created to visualize:
+- Current IoT device status
+- Historical environmental trends
+- Regression model performance comparison
+- LSTM forecasting error metrics
+
+The dashboard integrates operational monitoring with machine learning evaluation to support smart agriculture decision-making.
