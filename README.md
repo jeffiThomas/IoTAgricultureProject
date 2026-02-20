@@ -45,9 +45,14 @@ Time Series Forecasting:
 - Predicts short-term environmental temperature
 - Evaluated using MAE and RMSE
 
+## FinalMergedCode
+
+This folder contains the final merged code in one organized viewable format
+
 ## Dashboard
 
-Here is a link: https://public.tableau.com/views/IoTAgricultureDBFinal/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link 
+Here is a link: 
+https://public.tableau.com/views/IoTAgricultureDBFinal/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link 
 
 A Tableau Public dashboard was created to visualize:
 - Current IoT device status
